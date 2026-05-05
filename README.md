@@ -3,3 +3,4 @@ A powerful .skill file that fixes up most of the main problems with current AI m
 ## Instructions
 Download `luminescence.skill` and import it into your chosen AI's skill set <br><br>
 >  Run through messages with /luminescence
+<br> Disclaimer: The skill file will only work if your chosen AI model decides to actually use it rather than just reading it and leaving it.
